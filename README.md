@@ -1,4 +1,4 @@
-# AnalogClock
+# DigitalClock
 
 * [For feedback and support, feel free to contact me](https://www.youtube.com/@DerRobert28/community).
 
@@ -6,7 +6,7 @@
 
 ## Features:
 
-- This resource pack contains a 32x32 analogue clock.
+- This resource pack contains a 32x32 digital clock.
 
 - It should be compatible to the most Minecraft versions.
 
@@ -19,7 +19,7 @@
 ```
 cd %appdata%\.minecraft\resourcepacks
 
-git clone https://github.com/DerRobert-28/AnalogClock.git
+git clone https://github.com/DerRobert-28/DigitalClock.git
 ```
 
 <br>
@@ -29,14 +29,14 @@ git clone https://github.com/DerRobert-28/AnalogClock.git
 ```
 cd ~\.minecraft\resourcepacks
 
-git clone https://github.com/DerRobert-28/AnalogClock.git
+git clone https://github.com/DerRobert-28/DigitalClock.git
 ```
 
 <br>
 
 ## Alternative installation:
 
-- [Download the ZIP file of the master branch to your PC](https://github.com/DerRobert-28/AnalogClock/archive/refs/heads/master.zip).
+- [Download the ZIP file of the master branch to your PC](https://github.com/DerRobert-28/DigitalClock/archive/refs/heads/master.zip).
 
 - Copy the folder inside the ZIP file into your `resourcepacks` folder:
 
