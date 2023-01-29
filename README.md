@@ -10,7 +10,7 @@
 
 - It should be compatible to the most Minecraft versions.
 
-- Compatibility ends in Minecraft versions without clock.
+- Compatibility ends in Minecraft JE versions without clock.
 
 <br>
 
